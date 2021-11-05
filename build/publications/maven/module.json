@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.investment",
+    "module": "error-handling",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.3",
+      "buildId": "xgtxpjhntzgmtifxs4ii7qi6ie"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "error-handling-1.0.jar",
+          "url": "error-handling-1.0.jar",
+          "size": 1836,
+          "sha512": "63176aa623681d0607834b6ca0eb097d90fd118509afaa5fda7a54af542516441e95e55306a908203c28ddcbb4515920ac0665e5adec96586da0476900398968",
+          "sha256": "80296b4e9dc6c0d7b262d8f3c252ada8b6d2f6f5b3636f27634010e25e9cfcae",
+          "sha1": "7f1ca1c806b248da768717ca3989d9b75718a036",
+          "md5": "8ba810e5142e33bbb20864a13026874a"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "error-handling-1.0.jar",
+          "url": "error-handling-1.0.jar",
+          "size": 1836,
+          "sha512": "63176aa623681d0607834b6ca0eb097d90fd118509afaa5fda7a54af542516441e95e55306a908203c28ddcbb4515920ac0665e5adec96586da0476900398968",
+          "sha256": "80296b4e9dc6c0d7b262d8f3c252ada8b6d2f6f5b3636f27634010e25e9cfcae",
+          "sha1": "7f1ca1c806b248da768717ca3989d9b75718a036",
+          "md5": "8ba810e5142e33bbb20864a13026874a"
+        }
+      ]
+    }
+  ]
+}
